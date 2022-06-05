@@ -1,1 +1,51 @@
+body{
+  display: block;
+  padding: 40px;
+  background-color: #010101;
+}
+#header {
+  text-align: center;
+}
+figcaption {
+  color: #72757e;
+  text-align: right;
+  font-size: .1.0rem;
+}
+p{
+  padding: 20px 10px 20px 10;
+}
+
+p, li {
+  color: #94a1b2;
+  font-size: 1.1rem;
+}
+
+main {
+background-color: #16161a;
+  border: 2px dotted #7f5af0;
+  padding: 40px;
+}
+
+#image {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+#tribute-link {
+  color:#2cb67d;
+  display: flex;
+justify-content: center;
+  }
+
+h1, h2 {
+  color: #fffffe;
+  margin-top: auto;
+}
+
+#facts {
+  margin: 0px 0px;
+  padding: 40px 40px 40px 40px;
+  background-color: black;
+}
 
